@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #feffff;
+    width: 100%;
+}
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

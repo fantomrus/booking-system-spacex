@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "commonjs": true
+  },
+  "extends": "eslint:recommended",
+  "plugins": ["react","redux-saga"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
